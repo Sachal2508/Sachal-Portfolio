@@ -46,24 +46,6 @@ I'm a .NET Developer, Pythonist, and an AI/ML Enthusiast with a strong interest 
 
 ---
 
-## 📁 Project Structure
-MyPortfolio/
-├── Controllers/
-├── Models/
-├── Views/
-│ ├── Home/
-│ ├── Shared/
-├── wwwroot/
-│ ├── css/
-│ ├── js/
-│ ├── images/
-│ └── files/ # Resume PDF here
-├── Program.cs
-├── Startup.cs
-└── MyPortfolio.csproj
-
----
-
 ## ⚙️ Deployment
 
 This site is hosted using **Render**. To deploy your own:
