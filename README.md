@@ -1,7 +1,7 @@
 # 💼 Sachal's Developer Portfolio
 
 Welcome to my personal developer portfolio built with **ASP.NET Core MVC**.  
-This project A showcase of my projects, skills, and professional journey as a Software Developer and Tech Enthusiast. Built with C# in .Net environment, it highlights my work and expertise. Explore, connect or get inspired!
+This project A showcase of my projects, skills, and professional journey as a Software Developer and Tech Enthusiast. It highlights my work and expertise. Explore, connect or get inspired!
 
 ---
 
@@ -47,5 +47,37 @@ I'm a .NET Developer, Pythonist, and an AI/ML Enthusiast with a strong interest 
 ---
 
 ## 📁 Project Structure
+MyPortfolio/
+├── Controllers/
+├── Models/
+├── Views/
+│ ├── Home/
+│ ├── Shared/
+├── wwwroot/
+│ ├── css/
+│ ├── js/
+│ ├── images/
+│ └── files/ # Resume PDF here
+├── Program.cs
+├── Startup.cs
+└── MyPortfolio.csproj
 
+---
 
+## ⚙️ Deployment
+
+This site is hosted using **Render**. To deploy your own:
+
+1. Push this repo to GitHub
+2. Connect GitHub to [Render.com](https://render.com)
+3. Create a new Web Service
+4. Set the Build Command:
+   ```bash
+   dotnet publish -c Release -o out
+
+---
+
+## 📧 Contact Me
+- 📧 Email: sachalkool@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/muhammad-sachal-9a929136a/
+- 💻 GitHub: https://github.com/Sachal2508
