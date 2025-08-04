@@ -13,8 +13,7 @@ This project A showcase of my projects, skills, and professional journey as a So
 
 ## Video of my Portfolio
 
-https://github.com/user-attachments/files/21572114/11-56-11.zip
-
+https://github.com/user-attachments/assets/d99051a2-1726-4345-b4d3-3021d0c23703
 
 ---
 
